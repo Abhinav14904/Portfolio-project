@@ -11,7 +11,7 @@ nav{
     width: 48rem;
     background-color:#121212 ;
     border-radius: 999px;
-    /* font-size: large; */
+    font-size: large;
     display:flex;
     justify-content: center;
     align-items: center;
